@@ -5,8 +5,8 @@ Replacing the Billboards in Outrun 2 Pc
 OutRun 2 SP (Special Course) - North/South America
 | FILE | STAGE         |
 |-----:|---------------|
-|     1|               |
-|     2|               |
+| cs_CS_BEAC_BT_pmt  | Stage 1  | Sunny Beach  | San Diego     |
+|     cs_CS_SANF_pmt | Stage 2A | Bay Area     |San Francisco  |
 |     3|               |
 
 
