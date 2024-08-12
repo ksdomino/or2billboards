@@ -1,9 +1,20 @@
-# or2billboards
+
+**Complete set of Original Billboard Files.**
+
 Folders and files (in a zip file) for replacing the Billboards in Outrun 2 Pc
 
 [Click here to go to the releases page](https://github.com/ksdomino/or2billboards/releases)
 
-Also here's a list of the folders : 
+These can be used for creating your own custom billboards.
+(like my [incomplete] retro 80's/90s set that I can now complete using this.). 
+
+Notes: 
+- hierarchical folder and filename text file included in the zip. 
+- These are in their original folders so if you replace the files in the folders you'll have a full set optimised for minimising the ingame loading lag.
+
+Here's a folder list too in case you want to create cool per-stage billboards based on the stage location:
+
+
 OutRun 2 SP (Special Course) - North/South America
 | FILE              | STAGE         | NAME              | BASED ON                         |
 |-------------------|---------------|-------------------|----------------------------------|
@@ -38,6 +49,11 @@ OutRun 2 (Regular Course) - Europe/North Africa/Middle East
 | none              | Stage 4D      | Ghost Forest      | Transylvania, Romania            |
 | cs_CS_TULI_pmt    | Stage 5A      | Tulip Garden      | Holland                          |
 | none              | Stage 5B      | Metropolis        | approx. 100 miles from Smallville :D |
+| none              | Stage 5C      | Ancient Ruins     | Petra, Jordan                    |
+| cs_CS_IMPE_pmt    | Stage 5D      | Imperial Avenue   | Rome                             |
+| cs_CS_CAPE_pmt    | Stage 5E      | Cape Way          | Athens                           |
+
+
 | none              | Stage 5C      | Ancient Ruins     | Petra, Jordan                    |
 | cs_CS_IMPE_pmt    | Stage 5D      | Imperial Avenue   | Rome                             |
 | cs_CS_CAPE_pmt    | Stage 5E      | Cape Way          | Athens                           |
