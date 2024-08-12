@@ -11,7 +11,7 @@ These can be used for creating your own custom billboards.
 Notes: 
 - hierarchical folder and filename text file included in the zip. 
 - These are in their original folders so if you replace the files in the folders you'll have a full set optimised for minimising the ingame loading lag.
-- These original textures were extracted by OR2006Tweaks. I just compiled all the billboards in once place for easy access.
+- The original textures were extracted by OR2006Tweaks. I just compiled all the billboards in once place for easy access.
 
 
 Here's a folder list too in case you want to create cool per-stage billboards based on the stage location:
