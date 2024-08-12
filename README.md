@@ -52,11 +52,9 @@ OutRun 2 (Regular Course) - Europe/North Africa/Middle East
 | none              | Stage 5C      | Ancient Ruins     | Petra, Jordan                    |
 | cs_CS_IMPE_pmt    | Stage 5D      | Imperial Avenue   | Rome                             |
 | cs_CS_CAPE_pmt    | Stage 5E      | Cape Way          | Athens                           |
-
-
 | none              | Stage 5C      | Ancient Ruins     | Petra, Jordan                    |
 | cs_CS_IMPE_pmt    | Stage 5D      | Imperial Avenue   | Rome                             |
 | cs_CS_CAPE_pmt    | Stage 5E      | Cape Way          | Athens                           |
 
-
+[Click here to go to the releases page](https://github.com/ksdomino/or2billboards/releases)
 
