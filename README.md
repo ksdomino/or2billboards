@@ -1,5 +1,7 @@
 # or2billboards
-Replacing the Billboards in Outrun 2 Pc
+Folders and files (in a zip file) for replacing the Billboards in Outrun 2 Pc
+[Outrun 2 Billboards.zip](https://github.com/ksdomino/or2billboards/releases/download/1.0-Final/Outrun.2.Billboards.zip
+)
 
 
 OutRun 2 SP (Special Course) - North/South America
